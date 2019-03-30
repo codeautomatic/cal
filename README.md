@@ -7,6 +7,7 @@
  We used to type a command in CMD or SHELL to create database in real world. When it comes to CAL you just say the word to the ROBOT, it will do the remaining part for you.
  
  CREATE "NAME" DATABASE "NO OF" INSTANCES'
+ 
  CREATE "MYSQL" DATABSE "1" INSTANCES
  
  
