@@ -38,6 +38,7 @@
  You can deploy the app that you created with ROBOT IDE directly to "ABC" Cloud. 
  
  DEPLOY "APP NAME" TO  "CLOUD SERVICE" 
+ 
  DEPLOY "WHATSCHAT" TO "ABC CLOUD"
  
  
