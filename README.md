@@ -1,0 +1,2 @@
+# cal
+ CODE AUTOMATIC LANGUAGE - CAL : Code Automatic Language under development by CODING ROBOTICS will be used to talk to the robot to create apps for IOS, ANDROID and WINDOWS.  CAL will be unveiled for developers to develop their dream projects very soon. You will be working with Real Robot, Machine, or Cloud based AI to develop projects. CAL here to change the existing IDEs like Visual Studio, Andriod Studio, Xcode in the world today. Ready to step into Robotic Era. 
