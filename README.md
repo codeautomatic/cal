@@ -33,7 +33,7 @@
  
  CREATE "SHOPPING" APP FOR "IOS" USING "OBJECTIV C"
  
- 4. To deploy an APP:
+ 4. To Deploy an APP:
  
  You can deploy the app that you created with ROBOT IDE directly to "ABC" Cloud. 
  
