@@ -16,6 +16,7 @@
  You can ask the ROBOT IDE to take backup and also tell the robot do next steps like save it in D:/ Drive or SEND TO CLOUD ACCOUNT.
  
  TAKE DUMP OF "NAME" DATABASE AND SEND TO "CLOUD" ACCOUNT
+ 
  TAKE DUMP OF "ABC.COM" DATABASE AND SEND TO "AMAZON CLOUD" ACCOUNT
  
  
